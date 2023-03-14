@@ -10,3 +10,5 @@ Haslam data: https://lambda.gsfc.nasa.gov/product/foreground/fg_2014_haslam_408_
 CHIPASS data: https://lambda.gsfc.nasa.gov/product/foreground/fg_chipass_get.html
 
 FFP10 synchrotron simulation data: https://pla.esac.esa.int/#maps
+
+For futher information please see 'Simulating a full-sky high resolution Galactic synchrotron spectral index map using neural networks': https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.6070I/abstract
